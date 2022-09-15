@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**WesleyMarques329/wesleymarques329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá mundo, me chamo Wesley Marques e sou um desenvolvedor Full-Stack.
+<div align="center">
+  <a href="https://github.com/WesleyMarques329">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleymarques329&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymarques329&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="center"><br>
+  <img align="center" alt="Wesley-HTML" src="https://img.shields.io/badge/html-505082?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Wesley-CSS" src="https://img.shields.io/badge/css-505082?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Wesley-Js" src="https://img.shields.io/badge/javascript-505082?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="Wesley-React" src="https://img.shields.io/badge/react-505082?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Wesley-PHP" src="https://img.shields.io/badge/php-505082?style=for-the-badge&logo=php&logoColor=white">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/wesleymarquesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wesleymarquees320@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wesleymarques329/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
