@@ -1,4 +1,4 @@
-## Olá mundo, me chamo Wesley Marques e sou um desenvolvedor Full-Stack.
+## Olá mundo, me chamo Wesley Marques e sou um desenvolvedor Full-Stack iniciante.
 <div>
   <a href="https://github.com/WesleyMarques329">
   <img src="https://github-readme-stats.vercel.app/api?username=wesleymarques329&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
