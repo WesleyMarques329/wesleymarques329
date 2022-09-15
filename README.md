@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleymarques329&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymarques329&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div align="center"><br>
+<div><br>
   <img align="center" alt="Wesley-HTML" src="https://img.shields.io/badge/html-505082?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Wesley-CSS" src="https://img.shields.io/badge/css-505082?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Wesley-Js" src="https://img.shields.io/badge/javascript-505082?style=for-the-badge&logo=javascript&logoColor=white">
