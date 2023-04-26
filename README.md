@@ -1,4 +1,4 @@
-## Me chamo Wesley Marques e sou um desenvolvedor front-end. Possuo conhecimento em HTML, CSS, JavaScript e ReactJS, e atualmente estou buscando consolidar meus conhecimentos nessa área e então no futuro aprender mais sobre back-end e me tornar um desenvolvedor full-stack.
+## Me chamo Wesley Marques e sou um desenvolvedor front-end iniciante. Possuo conhecimento em HTML, CSS, JavaScript e ReactJS, e atualmente estou buscando consolidar meus conhecimentos nessa área e então no futuro aprender mais sobre back-end e me tornar um desenvolvedor full-stack.
 <div>
   <a href="https://github.com/WesleyMarques329">
   <img src="https://github-readme-stats.vercel.app/api?username=wesleymarques329&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
