@@ -43,7 +43,7 @@ Atualmente, também utilizo Inteligência Artificial como parte do processo de d
 
 # 📌 Projetos em Destaque
 
-### 📚 Plataforma de Estudos para TJSP
+### 📚 Plataforma de Estudos voltada a concursos.
 Sistema inspirado em plataformas de questões, focado na preparação para concursos.
 
 **Destaques do projeto:**
@@ -91,5 +91,5 @@ Vejo a IA como uma ferramenta estratégica para acelerar aprendizado, melhorar q
 
 # 📫 Contato
 
-LinkedIn: SEU LINK  
-Email: SEU EMAIL
+LinkedIn: https://www.linkedin.com/in/wesleymarques329/  
+Email: wesleymarqueesz@gmail.com
