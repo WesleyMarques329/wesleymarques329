@@ -2,87 +2,86 @@
 
 Desenvolvedor Full Stack em formação, graduado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Defesa Cibernética.
 
-Tenho experiência prática no desenvolvimento de aplicações web modernas, com foco em construção de projetos próprios, interfaces intuitivas e soluções escaláveis. Trabalho principalmente com React, TypeScript, Node.js, JavaScript e PHP, aplicando conceitos de arquitetura, responsividade e experiência do usuário.
+Tenho foco no desenvolvimento de aplicações web modernas, unindo desenvolvimento front-end, experiência do usuário e construção de soluções práticas através de projetos próprios.
 
-Atualmente, venho incorporando Inteligência Artificial ao meu fluxo de desenvolvimento e aos meus projetos, utilizando IA para acelerar prototipação, otimizar processos, apoiar resolução de problemas complexos e construir funcionalidades mais inteligentes e produtivas.
+Minha base é voltada para desenvolvimento com JavaScript moderno, React, TypeScript e arquitetura de interfaces, sempre buscando criar aplicações organizadas, responsivas e escaláveis.
 
-Tenho interesse especial em desenvolvimento full stack, SaaS, automação, experiência do usuário e segurança de aplicações.
+Atualmente, também utilizo Inteligência Artificial como parte do processo de desenvolvimento, aplicando IA para acelerar prototipação, auxiliar arquitetura, otimizar fluxos e aprimorar funcionalidades nos projetos que construo.
 
 ---
 
-## 🚀 Stack Tecnológica
+# 🚀 Tecnologias
 
 ### Front-end
+
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass)
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+### UI / UX & Design
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-
-### Ferramentas & Outros
-- Git & GitHub
-- APIs REST
-- UI/UX
+- UI Design
+- UX Design
+- Design de Interfaces
 - Responsividade
-- Arquitetura de aplicações
-- Integração de Inteligência Artificial
-- Segurança de aplicações
+- CSS Flexbox
+- CSS Grid Layout
+
+### Desenvolvimento & Ferramentas
+
+- React + TypeScript
+- APIs REST
+- Git & GitHub
+- Arquitetura Front-end
+- Componentização
+- Integração de IA no Desenvolvimento
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 
 ### 📚 Plataforma de Estudos para TJSP
-Plataforma inspirada em sistemas de questões e concursos, focada na preparação para o TJSP.
+Sistema inspirado em plataformas de questões, focado na preparação para concursos.
 
-**Principais recursos:**
-- Sistema de filtros avançados
-- Interface otimizada para produtividade
-- Organização inteligente de conteúdo
-- Melhorias contínuas com auxílio de IA
+**Destaques do projeto:**
+- Filtros inteligentes
+- Interface otimizada
+- Organização de conteúdo
+- Experiência do usuário aprimorada
+- Evolução contínua com auxílio de IA
 
 **Stack:** React • TypeScript • Node.js
 
 ---
 
 ### 🛒 Sistema de Checkout / E-commerce
-Projeto voltado para fluxo de compra, autenticação e gerenciamento de usuários.
-
-**Principais recursos:**
-- Autenticação de usuários
-- Estrutura escalável
-- Integração backend
-- Arquitetura voltada para expansão
+Projeto voltado para autenticação, gerenciamento de usuários e fluxo de compra.
 
 **Stack:** JavaScript • PHP • Banco de Dados
 
 ---
 
-## 🧠 Como utilizo IA nos meus projetos
+# 🧠 IA no meu fluxo de desenvolvimento
 
-Atualmente utilizo Inteligência Artificial como parte do processo de desenvolvimento, incluindo:
+Atualmente utilizo Inteligência Artificial como apoio no desenvolvimento de software para:
 
-- Prototipação e aceleração do desenvolvimento
-- Apoio em arquitetura e resolução de problemas
-- Refinamento de interface e experiência do usuário
-- Implementação de funcionalidades inteligentes
-- Automação e otimização de fluxos
+- Prototipação rápida
+- Planejamento de arquitetura
+- Resolução de problemas técnicos
+- Refinamento de interfaces
+- Otimização de produtividade
+- Desenvolvimento de funcionalidades
 
-Acredito que a IA é um diferencial importante no desenvolvimento moderno e procuro utilizá-la de forma estratégica para aumentar produtividade e qualidade de entrega.
+Vejo a IA como uma ferramenta estratégica para acelerar aprendizado, melhorar qualidade de código e aumentar eficiência no desenvolvimento moderno.
 
 ---
 
-## 📖 Atualmente estudando
+# 📖 Atualmente estudando
 
-- Desenvolvimento Full Stack
+- Full Stack Development
 - Arquitetura de Software
 - Defesa Cibernética
 - Segurança de Aplicações
@@ -90,11 +89,7 @@ Acredito que a IA é um diferencial importante no desenvolvimento moderno e proc
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-📎 LinkedIn: SEU LINK  
-📧 E-mail: SEU EMAIL
-
----
-
-⭐ Sempre buscando evoluir como desenvolvedor, criar projetos com impacto real e aprender novas tecnologias.
+LinkedIn: SEU LINK  
+Email: SEU EMAIL
